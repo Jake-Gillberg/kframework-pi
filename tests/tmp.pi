@@ -1,0 +1,6 @@
+for( y <- x ) { y!(P) }
+for( z <- x ) { z!(P) }
+
+
+for(y <- x) { y!(P) }
+for(y <- x) { z!(P) }
